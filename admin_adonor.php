@@ -6,6 +6,8 @@ include("admin_function.php");
  {
 	 header("location:admin.php");
  }
+
+ 
 ?>
 <!DOCTYPE html>
 <html lang="en">
